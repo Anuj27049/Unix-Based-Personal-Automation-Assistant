@@ -1,0 +1,24 @@
+# Compiled files
+assistant
+*.o
+
+# Vim temporary files
+*.swp
+*.swo
+
+# Generated data
+backups/
+logs/
+reports/
+
+# Test directories and files
+cleanup_test/
+organize_test/
+restore_test/
+sample.txt
+test.txt
+txt/
+
+# Temporary files
+*.tmp
+*~
